@@ -23,6 +23,9 @@ I used **Linear Regression** to predict house prices based on selected features.
 ## 📊 Results
 - Achieved an R² score of around **0.66–0.73**
 - Built a visualization comparing **actual vs predicted prices**
+- ## 📸 Output
+
+![Output](output.png)
 
 ---
 
